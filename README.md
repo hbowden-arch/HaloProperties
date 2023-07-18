@@ -6,7 +6,7 @@ Code for predicting halo properties from observable environment information.
 The goal of this project is to use observable environmental information (kNN distances or counts in cylinders) to predict the halo properties of a given galaxy.
 As of 6/15/23 this repository contains work on halo masses, including code for training neural networks, an array of pre-trained models, and code for analyzing model performances. Future work is planned for exploring halo properties beyond mass.
 
-For more information, see (arxiv link to come) or contact me at hbowden@arizona.edu
+For more information, see https://arxiv.org/abs/2307.07549 or contact me at hbowden@arizona.edu
 
 
 ## Requirements
